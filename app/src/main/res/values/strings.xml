@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">20230304DrawerLayout</string>
+    <string-array name="item_array">
+        <item>t1</item>
+        <item>t2</item>
+        <item>t3</item>
+        <item>t4</item>
+        <item>t</item>
+
+
+    </string-array>
+</resources>
